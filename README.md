@@ -5,5 +5,5 @@
 - No. Telp: 081393117415
 
 # Jawaban
-- Soal nomer 1, 2, dan 3 ada di Main
-- Soal nomer 4 dijawab dalam bentuk query yang disimpan ke file SQL, sudah disediakan juga query untuk membuat struktur dan isi dari contoh database.
+- Soal nomor 1, 2, dan 3 ada di Main
+- Soal nomor 4 dijawab dalam bentuk query yang disimpan ke file SQL, sudah disediakan juga query untuk membuat struktur dan isi dari contoh database.
