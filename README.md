@@ -1,6 +1,6 @@
 # Indentitas Personal
 - Nama    : Muhammad Helmi Ade Pamungkas
-- Jabatan : Full Stack Developer
+- Jabatan : Programmer
 - Tanggal : 26 September 2024
 - No. Telp: 081393117415
 
